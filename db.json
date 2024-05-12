@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Brunch"
+    },
+    {
+      "id": "2",
+      "name": "Main Dishes"
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "categoryId": 1,
+      "name": "MASALA-SPICED CHICKPEAS",
+      "image": "https://piquant.qodeinteractive.com/wp-content/uploads/2015/11/single-food-1.jpg",
+      "price": 14,
+      "currency": "$",
+      "composition": "Pork meat, Sauces, Potato",
+      "isNew": true,
+      "details": "<ol><li>Season pork chops on all sides with Montreal steak seasoning.</li><li>Melt 2 tablespoons butter in a large skillet over medium heat. Cook chops in melted butter until browned and slightly pink in the center, about 7 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Add remaining butter to the pan as needed so that about 3 tablespoons pan drippings remain in the pan when the chops are finished cooking. Transfer pork chops to a plate and return skillet to medium-high heat.</li><li>Mix flour, basil, and beef bouillon together in a bowl. Stir black pepper into skillet with the pan drippings and cook for 1 minute. Add flour mixture and cook, stirring constantly, until browned, about 2 minutes. Pour milk into flour mixture; cook and stir constantly until mixture is thick and bubbly, 4 to 6 minutes. Pour sauce over pork chops and serve.</li></ol>"
+    },
+    {
+      "id": "2",
+      "categoryId": 1,
+      "name": "KUNG PAO PASTRAMI",
+      "image": "https://piquant.qodeinteractive.com/wp-content/uploads/2015/11/single-food-2.jpg",
+      "price": 12,
+      "currency": "$",
+      "composition": "Cheese, Garlic, Potato, Pork",
+      "isNew": true,
+      "details": "<ol><li>Season pork chops on all sides with Montreal steak seasoning.</li><li>Melt 2 tablespoons butter in a large skillet over medium heat. Cook chops in melted butter until browned and slightly pink in the center, about 7 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Add remaining butter to the pan as needed so that about 3 tablespoons pan drippings remain in the pan when the chops are finished cooking. Transfer pork chops to a plate and return skillet to medium-high heat.</li><li>Mix flour, basil, and beef bouillon together in a bowl. Stir black pepper into skillet with the pan drippings and cook for 1 minute. Add flour mixture and cook, stirring constantly, until browned, about 2 minutes. Pour milk into flour mixture; cook and stir constantly until mixture is thick and bubbly, 4 to 6 minutes. Pour sauce over pork chops and serve.</li></ol>"
+    },
+    {
+      "id": "4",
+      "categoryId": 2,
+      "name": "CHOCOLATE MACARONS",
+      "image": "https://piquant.qodeinteractive.com/wp-content/uploads/2015/11/single-food-12.jpg",
+      "price": 20,
+      "currency": "$",
+      "composition": "Chocolate, Biscuits, Nougat",
+      "isNew": false,
+      "details": "<ol><li>Season pork chops on all sides with Montreal steak seasoning.</li><li>Melt 2 tablespoons butter in a large skillet over medium heat. Cook chops in melted butter until browned and slightly pink in the center, about 7 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Add remaining butter to the pan as needed so that about 3 tablespoons pan drippings remain in the pan when the chops are finished cooking. Transfer pork chops to a plate and return skillet to medium-high heat.</li><li>Mix flour, basil, and beef bouillon together in a bowl. Stir black pepper into skillet with the pan drippings and cook for 1 minute. Add flour mixture and cook, stirring constantly, until browned, about 2 minutes. Pour milk into flour mixture; cook and stir constantly until mixture is thick and bubbly, 4 to 6 minutes. Pour sauce over pork chops and serve.</li></ol>"
+    },
+    {
+      "id": "5",
+      "categoryId": 2,
+      "name": "CHICKEN STEW",
+      "image": "https://piquant.qodeinteractive.com/wp-content/uploads/2015/11/single-food-11.jpg",
+      "price": 15,
+      "currency": "$",
+      "composition": "Chicken, Vegetables, Eggs",
+      "isNew": false,
+      "details": "<ol><li>Season pork chops on all sides with Montreal steak seasoning.</li><li>Melt 2 tablespoons butter in a large skillet over medium heat. Cook chops in melted butter until browned and slightly pink in the center, about 7 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Add remaining butter to the pan as needed so that about 3 tablespoons pan drippings remain in the pan when the chops are finished cooking. Transfer pork chops to a plate and return skillet to medium-high heat.</li><li>Mix flour, basil, and beef bouillon together in a bowl. Stir black pepper into skillet with the pan drippings and cook for 1 minute. Add flour mixture and cook, stirring constantly, until browned, about 2 minutes. Pour milk into flour mixture; cook and stir constantly until mixture is thick and bubbly, 4 to 6 minutes. Pour sauce over pork chops and serve.</li></ol>"
+    },
+    {
+      "id": "6",
+      "categoryId": 2,
+      "name": "FRUIT-VANILLA ICE CREAM",
+      "image": "https://piquant.qodeinteractive.com/wp-content/uploads/2015/11/single-food-10.jpg",
+      "price": 25,
+      "currency": "$",
+      "composition": "Vanilla, Various Fruit, Cookies",
+      "isNew": false,
+      "details": "<ol><li>Season pork chops on all sides with Montreal steak seasoning.</li><li>Melt 2 tablespoons butter in a large skillet over medium heat. Cook chops in melted butter until browned and slightly pink in the center, about 7 to 10 minutes per side. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Add remaining butter to the pan as needed so that about 3 tablespoons pan drippings remain in the pan when the chops are finished cooking. Transfer pork chops to a plate and return skillet to medium-high heat.</li><li>Mix flour, basil, and beef bouillon together in a bowl. Stir black pepper into skillet with the pan drippings and cook for 1 minute. Add flour mixture and cook, stirring constantly, until browned, about 2 minutes. Pour milk into flour mixture; cook and stir constantly until mixture is thick and bubbly, 4 to 6 minutes. Pour sauce over pork chops and serve.</li></ol>"
+    }
+  ]
+}
