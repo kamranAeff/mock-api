@@ -23,5 +23,5 @@
 }</pre>
 </div>
 
-> npx json-server db.json
+> npx json-server --watch db.json
 
